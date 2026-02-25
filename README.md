@@ -3,6 +3,10 @@
 A simple web-based CRUD application for managing students, subjects, and grades. Built as a university assignment.
 
 ---
+## 🌐 Live Demo
+[https://student-tracker.42web.io/student_grades/home.php](https://student-tracker.42web.io/student_grades/home.php)
+
+---
 
 ## 🛠️ Built With
 - PHP 8 (mysqli)
