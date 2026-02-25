@@ -1,4 +1,4 @@
-# 📚 EduTrack — Student Grade Management System
+# 📚 StudentTracker — Student Grade Management System
 
 A simple web-based CRUD application for managing students, subjects, and grades. Built as a university assignment.
 
